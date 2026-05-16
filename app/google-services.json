@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912459416759",
+    "project_id": "goosebumpsrider",
+    "storage_bucket": "goosebumpsrider.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912459416759:android:26e703e517b4a96c5a7932",
+        "android_client_info": {
+          "package_name": "com.goosebumps.rider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC9wKamlN-KkTgJaYZuKOpGf5d2aKHqRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
